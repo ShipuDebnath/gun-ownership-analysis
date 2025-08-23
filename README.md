@@ -13,7 +13,7 @@ This project analyzes gun ownership patterns from the 2018 General Social Survey
 - Location: `/data/gss2018.sav` (include file or link to source)
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/your-username/gun-ownership-analysis.git`
+1. Clone the repository: `git clone https://github.com/ShipuDebnath/gun-ownership-analysis.git`
 2. Open R and set the working directory to the repo folder.
 3. Load data (e.g., `GSS2018 <- haven::read_sav("data/gss2018.sav")`).
 4. Run the script: `source("scripts/gun_ownership_analysis.R")`
